@@ -1,6 +1,6 @@
 # USBtinyISP
 
-![enter image description here](https://i1.wp.com/palmacas.com/wp-content/uploads/post43_1.jpg?w=2400&ssl=1)
+![USBtinyISP](https://i1.wp.com/palmacas.com/wp-content/uploads/post43_1.jpg?w=2400&ssl=1)
 
 The USBtinyISP is an USB ISP programmer for Atmel AVRs.
 
