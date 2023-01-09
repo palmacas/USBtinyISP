@@ -4,6 +4,7 @@
 
 The USBtinyISP is an USB ISP programmer for Atmel AVRs.
 
+---
 More information:  
 [Programador USBtinyISP](https://palmacas.com/usbtinyisp-programmer/)  [[Spanish]](https://palmacas.com/programador-usbtinyisp/)  
 [USBtiny Project](https://dicks.home.xs4all.nl/avr/usbtiny/)  
